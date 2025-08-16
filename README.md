@@ -30,5 +30,5 @@ This repo contains all the verilog codes for the circuits i learned and practice
 | 26 |  Universal Flip Flop            | [View](https://edaplayground.com/x/A55b) |
 | 27-28 | Baud Generator For Baud_ticks | [View](https://edaplayground.com/x/eH2R) |
 |29-31| Transmitter of UART | [View](https://edaplayground.com/x/ZRgn)|
-
+|32-35| Reciver Of UART| [View](https://edaplayground.com/x/fQed)|
 
