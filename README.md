@@ -28,4 +28,7 @@ This repo contains all the verilog codes for the circuits i learned and practice
 | 24 |  Calculator with FSM implementation             | [View](https://edaplayground.com/x/prwm) |
 | 25 |  Password-Checker with FSM implementation             | [View](https://edaplayground.com/x/qbk8) |
 | 26 |  Universal Flip Flop            | [View](https://edaplayground.com/x/A55b) |
+| 27-28 | Baud Generator For Baud_ticks | [View](https://edaplayground.com/x/eH2R) |
+|29-31| Transmitter of UART | [View](https://edaplayground.com/x/ZRgn)|
+
 
